@@ -1,0 +1,32 @@
+sauce:
+	ingredients:
+		1/4 cup smooth peanut butter
+		1/4 cup soy sauce / coco aminos
+		1 teaspoon sesame oil
+		2 tablespoons brown sugar or honey
+		1/2 teaspoon chili paste
+		1 tablespoon rice vinegar
+		2 garlic cloves
+		1/4 teaspoon ground ginger
+		3 tablespoons water
+	directions:
+		whisk ingredients together
+		heat up in a pan
+
+dish:
+	ingredients:
+		noodles
+		thin cut chicken
+		soy sauce / coco aminos
+		sea Salt
+		olive oil
+		cilantro
+		green onions
+		1/2 lime
+	directions:
+		coat chicken in soy sauce / coco aminos
+		cook noodles, drain, cover, set on cold burner
+		cook chicken in thin strips, add salt
+		serve chicken over noodles
+		top with sauce then with chopped cilantro and green onions
+		hand squeeze 1/4 lime over top
